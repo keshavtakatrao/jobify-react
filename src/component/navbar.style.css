@@ -1,0 +1,19 @@
+.logo {
+    width: 25%;
+  }
+  
+  .nav-theme {
+    background-color: #101018f8;
+    border: none;
+    font-size: 20px;
+  }
+  
+  
+  @keyframes moveDown {
+    from {
+      transform: translateY(-5rem);
+    }
+    to {
+      transform: translateY(0rem);
+    }
+  }
